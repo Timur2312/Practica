@@ -1,0 +1,15 @@
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/bin/Debug/net6.0/Exp2
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/bin/Debug/net6.0/Exp2.deps.json
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/bin/Debug/net6.0/Exp2.runtimeconfig.json
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/bin/Debug/net6.0/Exp2.dll
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/bin/Debug/net6.0/Exp2.pdb
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/obj/Debug/net6.0/Exp2.csproj.AssemblyReference.cache
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/obj/Debug/net6.0/Exp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/obj/Debug/net6.0/Exp2.AssemblyInfoInputs.cache
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/obj/Debug/net6.0/Exp2.AssemblyInfo.cs
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/obj/Debug/net6.0/Exp2.csproj.CoreCompileInputs.cache
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/obj/Debug/net6.0/Exp2.dll
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/obj/Debug/net6.0/refint/Exp2.dll
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/obj/Debug/net6.0/Exp2.pdb
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/obj/Debug/net6.0/Exp2.genruntimeconfig.cache
+/Users/timurarbiev/Desktop/Projects/Pratica/Exp2/obj/Debug/net6.0/ref/Exp2.dll
